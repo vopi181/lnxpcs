@@ -104,4 +104,4 @@ If you like something and want it on a T-Shirt, use the link below.
 - [ulimit-poster.png](https://teespring.com/ulimit-linux)
 - [usufructuarius.png](https://teespring.com/linux-user)
 
-For custom requests please create an issue.
+For custom requests please create an issue or send me an [email](mailto:jstpcs@ya.ru).
